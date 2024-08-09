@@ -1,2 +1,2 @@
 jenkins/jenkins
-gitlab/gitlab
+alpinelinux/alpine-gitlab-ci
