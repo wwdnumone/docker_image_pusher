@@ -1,2 +1,3 @@
 jenkins/jenkins
 alpinelinux/alpine-gitlab-ci
+rustdesk/rustdesk-server
