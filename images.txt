@@ -1,5 +1,4 @@
 jenkins/jenkins
 alpinelinux/alpine-gitlab-ci
 rustdesk/rustdesk-server
-leanote:2.6.1
-mongo:4
+axboy/leanote
